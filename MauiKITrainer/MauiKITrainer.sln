@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiKITrainer", "MauiKITrainer\MauiKITrainer\MauiKITrainer.csproj", "{75955D87-9538-4FAA-AF04-CB24E670892F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiKITrainer.WinUI", "MauiKITrainer\MauiKITrainer.WinUI\MauiKITrainer.WinUI.csproj", "{586EF4D5-8439-4F8A-A859-8F5E8D8A7947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM32 = Debug|ARM32
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM32 = Release|ARM32
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75955D87-9538-4FAA-AF04-CB24E670892F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75955D87-9538-4FAA-AF04-CB24E670892F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75955D87-9538-4FAA-AF04-CB24E670892F}.Debug|ARM32.ActiveCfg = Debug|Any CPU
+		{75955D87-9538-4FAA-AF04-CB24E670892F}.Debug|ARM32.Build.0 = Debug|Any CPU
+		{75955D87-9538-4FAA-AF04-CB24E670892F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{75955D87-9538-4FAA-AF04-CB24E670892F}.Debug|x86.Build.0 = Debug|Any CPU
+		{75955D87-9538-4FAA-AF04-CB24E670892F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75955D87-9538-4FAA-AF04-CB24E670892F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75955D87-9538-4FAA-AF04-CB24E670892F}.Release|ARM32.ActiveCfg = Release|Any CPU
+		{75955D87-9538-4FAA-AF04-CB24E670892F}.Release|x86.ActiveCfg = Release|Any CPU
+		{586EF4D5-8439-4F8A-A859-8F5E8D8A7947}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{586EF4D5-8439-4F8A-A859-8F5E8D8A7947}.Debug|Any CPU.Build.0 = Debug|x64
+		{586EF4D5-8439-4F8A-A859-8F5E8D8A7947}.Debug|ARM32.ActiveCfg = Debug|x64
+		{586EF4D5-8439-4F8A-A859-8F5E8D8A7947}.Debug|ARM32.Build.0 = Debug|x64
+		{586EF4D5-8439-4F8A-A859-8F5E8D8A7947}.Debug|x86.ActiveCfg = Debug|x64
+		{586EF4D5-8439-4F8A-A859-8F5E8D8A7947}.Debug|x86.Build.0 = Debug|x64
+		{586EF4D5-8439-4F8A-A859-8F5E8D8A7947}.Release|Any CPU.ActiveCfg = Release|x64
+		{586EF4D5-8439-4F8A-A859-8F5E8D8A7947}.Release|Any CPU.Build.0 = Release|x64
+		{586EF4D5-8439-4F8A-A859-8F5E8D8A7947}.Release|ARM32.ActiveCfg = Release|x64
+		{586EF4D5-8439-4F8A-A859-8F5E8D8A7947}.Release|ARM32.Build.0 = Release|x64
+		{586EF4D5-8439-4F8A-A859-8F5E8D8A7947}.Release|x86.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
